@@ -47,12 +47,23 @@
 ---
 
 ### :fire: My Stats :
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=STUTI0670&rank_icon=github&theme=dark)](https://github.com/STUTI0670/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/AkankshaAI">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=STUTI0670&theme=radical&border=7F3FBF&background=0D1117" alt="Stuti's GitHub streak"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STUTI0670&layout=compact&theme=vision-friendly-dark)](https://github.com/STUTI0670/github-readme-stats)
-<!---
-![](https://leetcard.jacoblin.cool/AditiMehta07?ext=contest)
+<p align="center">
+  <a href="https://github.com/AkankshaAI">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=STUTI0670&theme=radical" alt="Stuti's GitHub Contribution"/>
+  </a>
+</p>
 
-aditi75432/aditi75432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a> 
+    <a href="https://github.com/STUTI0670"><img alt="STUTI 's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=STUTI0670&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/STUTI0670"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=STUTI0670&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+[![AkankshaAI's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=STUTI0670&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
