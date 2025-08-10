@@ -1,13 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh4NzR4MGs3Mm8ycmIwbXg2a2t6dzd5OG14YTZiNG5mcGZqeTdtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/stuti-sharma-6439281a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
+
  
 </div>
 <img src="https://komarev.com/ghpvc/?username=STUTI0670&style=flat-square&color=blue" alt=""/>
